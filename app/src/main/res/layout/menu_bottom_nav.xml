@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="@string/dashboard"/>
+    <item
+        android:id="@+id/nav_sensors"
+        android:icon="@drawable/ic_sensors"
+        android:title="@string/sensors"/>
+    <item
+        android:id="@+id/nav_race_display"
+        android:icon="@drawable/ic_race"
+        android:title="@string/race_mode"/>
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.OBDRacingApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">#202020</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
