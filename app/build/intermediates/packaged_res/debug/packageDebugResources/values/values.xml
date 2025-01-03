@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="racing_red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">OBD Racing App</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="race_mode">Race Mode</string>
+    <string name="sensors">Sensors</string>
+    <style name="Theme.OBDRacingApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        
+        <item name="android:colorBackground">#202020</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
