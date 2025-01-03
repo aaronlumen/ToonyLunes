@@ -1,5 +1,5 @@
  Each file is labeled with a header and a path (relative to the project root). You can copy these into the appropriate folders in your local environment. This will reconstruct the ObdRacingApp sample project structure.
-
+<pre>
 Note: In many places, you'll see placeholder package names and references (com.example.obdracing). Feel free to rename them to match your own package name.
 
 Project Layout Recap
@@ -1194,3 +1194,4 @@ Thorough error handling (e.g., ELM timeouts).
 Potential driver or library integration (e.g., obd-java-api).
 Once you download all these files (or copy/paste them into your local Android Studio project), you’ll have a fully buildable sample that can connect to an ELM327 adapter, send basic commands, and display raw data in a “racing” UI.
 
+</pre>
