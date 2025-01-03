@@ -1,0 +1,4 @@
+shop.surina.obdracing.test.app-androidTest-0 C:\Users\Computer User\Desktop\obd2\ObdRacingApp\app\build\generated\res\resValues\androidTest\debug
+shop.surina.obdracing.test.app-mergeDebugAndroidTestResources-1 C:\Users\Computer User\Desktop\obd2\ObdRacingApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+shop.surina.obdracing.test.app-mergeDebugAndroidTestResources-2 C:\Users\Computer User\Desktop\obd2\ObdRacingApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+shop.surina.obdracing.test.app-debugAndroidTest-3 C:\Users\Computer User\Desktop\obd2\ObdRacingApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
