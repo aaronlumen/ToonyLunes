@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Carbon fiber option commented out -->
+<!-- <FrameLayout -->
+    <!-- xmlns:android="http://schemas.android.com/apk/res/android" -->
+    <!-- android:id="@+id/race_display_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/carbon_fiber_tile"
+    android:tileMode="repeat"> -->
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/race_display_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/checkered_flag_bg">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_race_display"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout>

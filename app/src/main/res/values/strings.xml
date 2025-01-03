@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OBD Racing App</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="sensors">Sensors</string>
+    <string name="race_mode">Race Mode</string>
+</resources>
